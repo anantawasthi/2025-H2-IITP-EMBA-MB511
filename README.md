@@ -1,5 +1,3 @@
-
-
 # 📘 MB511 – Data Science for Managerial Decisions
 
 ### Cohort: 2025-H2-IITP-EMBA-MB511 | IIT Patna
@@ -113,7 +111,3 @@ This repository is intended solely for academic learning within the 2025-H2-IITP
 Explore. Experiment. Engage.  
 Ask questions. Build projects. Discuss doubts.  
 The more you interact, the more you’ll learn — and we’ll grow together as a data science community.
-
----
-
-Let me know if you'd like this in `.md` file format or published to your repo.
