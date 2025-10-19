@@ -284,5 +284,3 @@ plt.scatter(df["TrainingHours"], df["PerformanceRating"], alpha=0.5)
 plt.xlabel("Training Hours"); plt.ylabel("Performance Rating")
 plt.title("Training vs Performance"); plt.show()
 ```
-
-

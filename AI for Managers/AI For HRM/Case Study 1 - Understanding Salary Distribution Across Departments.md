@@ -1,5 +1,3 @@
-
-
 # **Case Study 1: Understanding Salary Distribution Across Departments**
 
 ### 1. Business Objective
@@ -80,5 +78,3 @@ This analysis helps HR in:
 - Building **compensation benchmarking reports** for leadership discussions.
 
 - Ensuring **fairness and competitiveness** in pay across functions.
-
-
